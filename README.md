@@ -1,0 +1,2 @@
+# Snoutt
+Digital sensor project
